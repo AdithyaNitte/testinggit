@@ -1,3 +1,4 @@
 a file created for testing git useing command prompt
 
 created sw related to cs 
+i have modified the file
